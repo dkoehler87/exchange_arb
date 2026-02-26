@@ -1,5 +1,4 @@
 ccxt
-math
 pandas
 streamlit
 altair
