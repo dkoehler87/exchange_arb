@@ -1,0 +1,7 @@
+ccxt
+math
+dataclasses
+typing
+concurrent
+pandas
+streamlit
